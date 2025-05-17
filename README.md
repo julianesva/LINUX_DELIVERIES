@@ -57,7 +57,7 @@ Follow these steps to get the project running:
         * **SID:** `free`
 
     ```
-    ![SQL Developer New Connection Dialog](images/ORACLE_SQL_DEV.png)
+    ![SQL Developer New Connection Dialog](ORACLE_SQL_DEV.png)
     ```
 
 3.  **Create an Admin User and Grant Privileges:**
