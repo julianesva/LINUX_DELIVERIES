@@ -23,7 +23,7 @@ Follow these steps to get the project running:
 2.  Run the following command:
 
     ```bash
-    git clone [https://github.com/julianesva/LINUX_DELIVERIES.git](https://github.com/julianesva/LINUX_DELIVERIES.git)
+    git clone https://github.com/julianesva/LINUX_DELIVERIES.git
     ```
 
 ### b) Run a Local Oracle Database using Docker
@@ -57,9 +57,8 @@ Follow these steps to get the project running:
         * **SID:** `free`
 
     ```
-    ![SQL Developer New Connection Dialog](path/to/your/image.png)
+    ![SQL Developer New Connection Dialog](images/ORACLE_SQL_DEV.png)
     ```
-    *(Replace `path/to/your/image.png` with the actual path to the image you provided)*
 
 3.  **Create an Admin User and Grant Privileges:**
     * Once the connection is established, open a new SQL Worksheet.
