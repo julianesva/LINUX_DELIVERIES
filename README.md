@@ -43,6 +43,7 @@ Follow these steps to get the project running:
 1.  **Download and Install Oracle SQL Developer:** If you haven't already, download and install Oracle SQL Developer from the official Oracle website.
 
 2.  **Create a New Connection:**
+    * You can see the example image in the next file of our repository: ORACLE_SQL_DEV.png
     * Open Oracle SQL Developer.
     * Go to `File` > `New` > `Database Connection`.
     * Fill in the connection details as follows (refer to the image below for visual guidance):
@@ -55,7 +56,6 @@ Follow these steps to get the project running:
         * **Hostname:** `localhost`
         * **Port:** `1521`
         * **SID:** `free`
-    *You can see the example image in the next file of our repository: ORACLE_SQL_DEV.png
 
 3.  **Create an Admin User and Grant Privileges:**
     * Once the connection is established, open a new SQL Worksheet.
