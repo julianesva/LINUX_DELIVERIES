@@ -55,10 +55,7 @@ Follow these steps to get the project running:
         * **Hostname:** `localhost`
         * **Port:** `1521`
         * **SID:** `free`
-
-    ```
-    ![SQL Developer New Connection Dialog](ORACLE_SQL_DEV.png)
-    ```
+    *You can see the example image in the next file of our repository: ORACLE_SQL_DEV.png
 
 3.  **Create an Admin User and Grant Privileges:**
     * Once the connection is established, open a new SQL Worksheet.
